@@ -20,6 +20,8 @@
 * TROJAN GO WS PORT 442 (BETA)
 * TROJAN TCP/XTLS PORT 443
 
+<h1 align="center">installation</h1>
+
 ## STEP 1
 <pre><code>apt update && apt upgrade -y && apt install curl -y && reboot</code></pre>
 
