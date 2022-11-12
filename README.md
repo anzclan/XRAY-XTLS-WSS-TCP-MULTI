@@ -8,10 +8,9 @@
 </p>
 <p align="center">
 <img src="https://raw.githubusercontent.com/anzclan/XRAY-XTLS-WSS-TCP-MULTI/main/ss.jpg" />
-<p>
-<h3>This Script Development For Testing Purpose Only</h3>
 </p>
-</p>
+<p align="center"><h3>This Script Development For Testing Purpose Only</h3></p>
+
 
 
 ## STEP 1
