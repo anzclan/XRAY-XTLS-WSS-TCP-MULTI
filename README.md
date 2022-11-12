@@ -11,7 +11,14 @@
 </p>
 <h2 align="center">This Script Development For Testing Purpose Only</h2>
 
-
+## SCRIPT INFO
+* NGINX 443/80/81 (81 PP)
+* VMESS WEBSOCKET PORT 443 & 80
+* VLESS WEBSOCKET PORT 443 & 80
+* VMESS TCP/XTLS PORT 443
+* TROJAN WEBSOCKET PORT 443 & 80
+* TROJAN GO WS PORT 442 (BETA)
+* TROJAN TCP/XTLS PORT 443
 
 ## STEP 1
 <pre><code>apt update && apt upgrade -y && apt install curl -y && reboot</code></pre>
