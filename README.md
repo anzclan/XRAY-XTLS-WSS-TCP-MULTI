@@ -7,7 +7,7 @@
 <img height=21 src="https://komarev.com/ghpvc/?username=anzclan">
 </p>
 <p align="center">
-<img src="https://raw.githubusercontent.com/anzclan/XRAY-XTLS-WSS-TCP-MULTI/main/qq.jpg" />
+<img src="https://raw.githubusercontent.com/anzclan/XRAY-XTLS-WSS-TCP-MULTI/main/ss.jpg" />
 </p>
 
 
