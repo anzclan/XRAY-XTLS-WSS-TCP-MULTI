@@ -22,5 +22,5 @@ PATH=/usr/local/sbin:/usr/local/bin:/sbin:/bin:/usr/sbin:/usr/bin
 52 6    1 * *   root    test -x /usr/sbin/anacron || ( cd / && run-parts --report /etc/cron.monthly )
 #
 0 6 * * * root reboot
-0 0 * * * root /usr/local/sbin/expiry
-*/2 * * * * root /usr/local/sbin/cleanlog
+0 0 * * * root /usr/local/sbin/xp
+*/2 * * * * root /usr/local/sbin/cleanbass
