@@ -8,6 +8,9 @@
 </p>
 <p align="center">
 <img src="https://raw.githubusercontent.com/anzclan/XRAY-XTLS-WSS-TCP-MULTI/main/ss.jpg" />
+<p>
+<h3>This Script Development For Testing Purpose Only</h3>
+</p>
 </p>
 
 
@@ -24,7 +27,7 @@
 <pre><code>wget -q -O ./update.sh "https://raw.githubusercontent.com/anzclan/XRAY-XTLS-WSS-TCP-MULTI/main/setup/update.sh" && chmod +x ./update.sh && ./update.sh && rm ./update.sh</code></pre>
 
 
-### This Script Development For Testing Purpose Only
+
 <p></p>
 <h1 align="center">Buy me a coffee (Donate:)</h1>
 <p align="center"><img src="https://raw.githubusercontent.com/anzclan/XRAY-XTLS-WSS-TCP-MULTI/main/photo_2022-11-12_12-04-07.jpg" width="280" height="400"></p>
