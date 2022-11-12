@@ -5,5 +5,5 @@ export SCURL="https://raw.githubusercontent.com/anzclan/XRAY-XTLS-WSS-TCP-MULTI/
 export MENUPATH="/usr/local/sbin/"
 ####################################################
 # TESTING
-echo -e " $INFO Download Main menu"
+echo -e "${THEME}│${NC} $INFO Download Main menu"
 wget -q -O ${MENUPATH}menu "${SCURL}/menu.sh" && chmod +x ${MENUPATH}menu
