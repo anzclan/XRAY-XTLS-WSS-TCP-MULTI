@@ -11,3 +11,6 @@
 
 ## UPDATE LITE 2.0 TO 2.5 (v2.5 update fm your vps)
 <pre><code>wget -q -O ./update.sh "https://raw.githubusercontent.com/anzclan/XRAY-XTLS-WSS-TCP-MULTI/main/setup/update.sh" && chmod +x ./update.sh && ./update.sh && rm ./update.sh</code></pre>
+
+
+### This Script Development For Testing Purpose Only
