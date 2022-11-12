@@ -16,5 +16,5 @@
 ### This Script Development For Testing Purpose Only
 
 <h3 align="center">Buy me a coffee 🧋 (Donate:)</h3>
-<p align="center"><img src="https://raw.githubusercontent.com/anzclan/XRAY-XTLS-WSS-TCP-MULTI/main/photo_2022-11-12_12-04-07.jpg" width="50%"> </p>
+<p align="center"><img src="https://raw.githubusercontent.com/anzclan/XRAY-XTLS-WSS-TCP-MULTI/main/photo_2022-11-12_12-04-07.jpg" width="50%" height="60%"> </p>
 
