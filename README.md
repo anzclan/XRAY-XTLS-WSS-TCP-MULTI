@@ -9,7 +9,7 @@
 <p align="center">
 <img src="https://raw.githubusercontent.com/anzclan/XRAY-XTLS-WSS-TCP-MULTI/main/ss.jpg" />
 </p>
-<p align="center"><h3>This Script Development For Testing Purpose Only</h3></p>
+<h2 align="center">This Script Development For Testing Purpose Only</h2>
 
 
 
