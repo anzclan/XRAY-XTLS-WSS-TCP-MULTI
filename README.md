@@ -20,6 +20,15 @@
 * TROJAN GO WS PORT 442 (BETA)
 * TROJAN TCP/XTLS PORT 443
 
+## TESTED OS / VPS
+* DEBIAN 9, 10 , 11 [Buster]
+* UBUNTU 18, 20 & 22 [LTS]
+* VPS DIGITAL OCEAN
+* SHINJIRU MALAYSIA
+* IPSO MALAYSIA
+* OVH SG
+
+
 <h1 align="center">installation</h1>
 
 ## STEP 1
