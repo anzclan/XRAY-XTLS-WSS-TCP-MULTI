@@ -23,10 +23,10 @@
 ## TESTED OS / VPS
 * DEBIAN 9, 10 , 11 [Buster]
 * UBUNTU 18, 20 & 22 [LTS]
-* VPS DIGITAL OCEAN
-* SHINJIRU MALAYSIA
-* IPSO MALAYSIA
-* OVH SG
+* VPS DIGITAL OCEAN [root]
+* SHINJIRU MALAYSIA [root]
+* IPSO MALAYSIA [root]
+* OVH SG [root]
 
 
 <h1 align="center">installation</h1>
