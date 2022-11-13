@@ -11,6 +11,9 @@
 </p>
 <h2 align="center">This Script Development For Testing Purpose Only</h2>
 
+## Buy Vpn Config?
+* https://bit.ly/3UPyS6L
+
 ## SCRIPT INFO
 * NGINX 443/80/81 (81 PP)
 * VMESS WEBSOCKET PORT 443 & 80
