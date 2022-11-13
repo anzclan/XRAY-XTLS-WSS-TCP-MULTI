@@ -1,7 +1,7 @@
 <h1 align="center">XRAY-XTLS-WSS-TCP-MULTI</h1>
 
 <h3 align="center">Supported Linux Distribution</h3>
-<p align="center"><img src="https://img.shields.io/static/v1?style=for-the-badge&logo=debian&label=Debian%209&message=Buster&color=red"> <img src="https://img.shields.io/static/v1?style=for-the-badge&logo=ubuntu&label=Ubuntu%2018&message=18.04 LTS&color=red"> </p>
+<p align="center"><img src="https://img.shields.io/static/v1?style=for-the-badge&logo=debian&label=Debian%2010+&message=Buster&color=red"> <img src="https://img.shields.io/static/v1?style=for-the-badge&logo=ubuntu&label=Ubuntu%2018+&message=LTS&color=red"> </p>
 
 <p align="center">
 <img height=21 src="https://komarev.com/ghpvc/?username=anzclan">
