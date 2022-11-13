@@ -12,7 +12,7 @@
 <h2 align="center">This Script Development For Testing Purpose Only</h2>
 
 ## Buy Vpn Config?
-* https://bit.ly/3UPyS6L
+* Our Shop https://bit.ly/3UPyS6L
 * Our Website www.dotycat.com
 
 ## SCRIPT INFO
